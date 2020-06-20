@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cyberPage"
+    }
+  },
+  "defaultProject": "cyberPage",
+  "cli": {
+    "analytics": "0faccae1-92a9-482a-9dee-66e67faab4c7"
+  }
 }
