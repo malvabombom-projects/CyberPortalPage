@@ -1,0 +1,21 @@
+section{
+    font-family: "Courier";
+    /* text-shadow: 0px 0px 20px #f50abe58, 0px 0px 15px #f50abe9f, 0px 0px 5px rgba(206, 29, 255, 0.372); */
+    padding: 10%;
+}
+h1{
+    color: white;
+}
+p{
+    text-shadow: 0px 0px 20px #0af5e958, 0px 0px 15px #ffffff9f, 0px 0px 5px rgba(29, 255, 255, 0.372);
+    color: white;
+}
+
+.center {
+    margin: 0;
+    /* position: absolute; */
+    /* top: 50%; */
+    left: 50%;
+    /* -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
+  }
