@@ -61,3 +61,13 @@ body, html {
             background-image: url('src/assets/Imgs/photo-1557515126-1bf9ada5cb93.jpeg');
     }
 } 
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    text-shadow: 0px 0px 20px #f50abe58, 0px 0px 15px #f50abe9f, 0px 0px 5px rgba(206, 29, 255, 0.372);
+  }
