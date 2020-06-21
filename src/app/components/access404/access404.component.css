@@ -16,8 +16,8 @@ p{
   }
 .btn-neon{
     position: relative;
-    padding: 15px 30px;
-    display: inline-block;
+    /* padding: 15px 30px; */
+    /* display: inline-block; */
     text-decoration: none;
     overflow: hidden;
     transition: 0.2s;
